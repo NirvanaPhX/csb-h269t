@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nirvanaphx.github.io/csb-h269t/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nirvanaphx.github.io/csb-h269t/static/js/main.c03eaa4b.chunk.js",
+    "main.js.map": "https://nirvanaphx.github.io/csb-h269t/static/js/main.c03eaa4b.chunk.js.map",
+    "runtime-main.js": "https://nirvanaphx.github.io/csb-h269t/static/js/runtime-main.9dc4c3e5.js",
+    "runtime-main.js.map": "https://nirvanaphx.github.io/csb-h269t/static/js/runtime-main.9dc4c3e5.js.map",
+    "static/js/2.6487861b.chunk.js": "https://nirvanaphx.github.io/csb-h269t/static/js/2.6487861b.chunk.js",
+    "static/js/2.6487861b.chunk.js.map": "https://nirvanaphx.github.io/csb-h269t/static/js/2.6487861b.chunk.js.map",
+    "index.html": "https://nirvanaphx.github.io/csb-h269t/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nirvanaphx.github.io/csb-h269t/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6487861b.chunk.js.LICENSE.txt": "https://nirvanaphx.github.io/csb-h269t/static/js/2.6487861b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dc4c3e5.js",
+    "static/js/2.6487861b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c03eaa4b.chunk.js"
+  ]
+}
